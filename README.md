@@ -2,7 +2,7 @@
 
 I like sports
 
-![ ](https://images.app.goo.gl/WDZodcGEWS3H9sAM8)
+![ a picture of a dog](https://images.app.goo.gl/WDZodcGEWS3H9sAM8)
 
 - buy eggs
 - wash car
