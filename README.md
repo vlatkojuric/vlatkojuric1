@@ -5,14 +5,16 @@
 
 ---
 
-#### Learning new concepts to improve my coding skills and eventually get a job
+> Learning new concepts to improve my coding skills and eventually get a job
 ---
-*To-do list in the near future* :
+> *To-do list in the near future* :
 
-1. Study everyday after the Bootcamp for min 3 hours
-1. Learn to use the Macbook a little better(Windows user whole life)
-1. Stay active everyday to improve mood and health
-1. Get up earlier to stretch before a long day in the chair
+> 1. Study everyday after the Bootcamp for min 3 hours
+> 1. Learn to use the Macbook a little better(Windows user whole life)
+> 1. Stay active everyday to improve mood and health
+> 1. Get up earlier to stretch before a long day in the chair
+
+---
 
 #### Link to the video I used to practice my Github Markdown skills alongside the material from the Coach in the Bootcamp : 
 [Travesty media](https://www.youtube.com/watch?v=HUBNt18RFbo&t=1s)
